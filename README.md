@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 I am Michael (Mike) Sundius
-I am a Embedded Systems and Systems Engineering Generalist
-I'm helping build a world where the "Saltenna" is as ubiquitous as the "Antenna"
+
+- I am a Embedded Systems and Systems Engineering Generalist
+- I'm helping build a world where the "Saltenna" is as ubiquitous as the "Antenna"
 
 <!--
 **msaltenna/msaltenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
